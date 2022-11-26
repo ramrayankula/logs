@@ -1,0 +1,25 @@
+[Thu Nov 24 11:50:33.936927 2022] [core:notice] [pid 2598] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Thu Nov 24 11:50:33.940465 2022] [suexec:notice] [pid 2598] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::5054:ff:fe4d:77d3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 24 11:50:33.975163 2022] [lbmethod_heartbeat:notice] [pid 2598] AH02282: No slotmem from mod_heartmonitor
+[Thu Nov 24 11:50:33.979674 2022] [mpm_prefork:notice] [pid 2598] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu Nov 24 11:50:33.979720 2022] [core:notice] [pid 2598] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Nov 24 11:51:17.299316 2022] [autoindex:error] [pid 2600] [client 192.168.33.10:56324] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Nov 24 11:51:29.856418 2022] [autoindex:error] [pid 2601] [client 192.168.33.1:52815] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Nov 24 11:55:32.112544 2022] [autoindex:error] [pid 2610] [client 192.168.33.1:52835] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Nov 24 11:56:49.862498 2022] [mpm_prefork:notice] [pid 2598] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Nov 24 11:59:22.542702 2022] [core:notice] [pid 2669] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Thu Nov 24 11:59:22.543858 2022] [suexec:notice] [pid 2669] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::5054:ff:fe4d:77d3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 24 11:59:22.581882 2022] [lbmethod_heartbeat:notice] [pid 2669] AH02282: No slotmem from mod_heartmonitor
+[Thu Nov 24 11:59:22.584427 2022] [mpm_prefork:notice] [pid 2669] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu Nov 24 11:59:22.584470 2022] [core:notice] [pid 2669] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Nov 24 11:59:35.763101 2022] [autoindex:error] [pid 2671] [client 192.168.33.1:52894] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Nov 24 12:12:26.720375 2022] [mpm_prefork:notice] [pid 2669] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Nov 24 15:49:27.647545 2022] [core:notice] [pid 2414] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Thu Nov 24 15:49:27.662940 2022] [suexec:notice] [pid 2414] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::5054:ff:fe4d:77d3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 24 15:49:27.700261 2022] [lbmethod_heartbeat:notice] [pid 2414] AH02282: No slotmem from mod_heartmonitor
+[Thu Nov 24 15:49:27.744648 2022] [mpm_prefork:notice] [pid 2414] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu Nov 24 15:49:27.744683 2022] [core:notice] [pid 2414] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Nov 24 18:06:15.030791 2022] [mpm_prefork:notice] [pid 2414] AH00170: caught SIGWINCH, shutting down gracefully
