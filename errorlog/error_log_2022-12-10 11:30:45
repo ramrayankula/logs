@@ -1,0 +1,28 @@
+[Mon Nov 28 11:13:11.156768 2022] [core:notice] [pid 2464] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Mon Nov 28 11:13:11.173806 2022] [suexec:notice] [pid 2464] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::5054:ff:fe4d:77d3. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 28 11:13:11.200244 2022] [lbmethod_heartbeat:notice] [pid 2464] AH02282: No slotmem from mod_heartmonitor
+[Mon Nov 28 11:13:11.227524 2022] [mpm_prefork:notice] [pid 2464] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Mon Nov 28 11:13:11.227594 2022] [core:notice] [pid 2464] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Nov 28 18:18:10.796826 2022] [mpm_prefork:notice] [pid 2464] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Nov 29 19:11:58.273197 2022] [core:notice] [pid 2497] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Nov 29 19:11:58.287071 2022] [suexec:notice] [pid 2497] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::5054:ff:fe4d:77d3. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 29 19:12:18.334954 2022] [lbmethod_heartbeat:notice] [pid 2497] AH02282: No slotmem from mod_heartmonitor
+[Tue Nov 29 19:12:18.385276 2022] [mpm_prefork:notice] [pid 2497] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Tue Nov 29 19:12:18.385315 2022] [core:notice] [pid 2497] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Nov 29 20:02:50.360921 2022] [mpm_prefork:notice] [pid 2497] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 30 11:18:33.099342 2022] [core:notice] [pid 2485] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Wed Nov 30 11:18:33.133993 2022] [suexec:notice] [pid 2485] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::5054:ff:fe4d:77d3. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 30 11:18:33.184870 2022] [lbmethod_heartbeat:notice] [pid 2485] AH02282: No slotmem from mod_heartmonitor
+[Wed Nov 30 11:18:33.252351 2022] [mpm_prefork:notice] [pid 2485] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Wed Nov 30 11:18:33.252431 2022] [core:notice] [pid 2485] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Nov 30 11:56:31.881063 2022] [mpm_prefork:notice] [pid 2485] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 06 20:07:39.105776 2022] [core:notice] [pid 2474] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Dec 06 20:07:39.126360 2022] [suexec:notice] [pid 2474] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::5054:ff:fe4d:77d3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 06 20:07:39.167278 2022] [lbmethod_heartbeat:notice] [pid 2474] AH02282: No slotmem from mod_heartmonitor
+[Tue Dec 06 20:07:39.191415 2022] [mpm_prefork:notice] [pid 2474] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Tue Dec 06 20:07:39.191521 2022] [core:notice] [pid 2474] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Dec 06 21:05:52.368533 2022] [mpm_prefork:notice] [pid 2474] AH00170: caught SIGWINCH, shutting down gracefully
