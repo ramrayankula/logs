@@ -17,7 +17,7 @@
 	echo "*****************************************************************"
 	cd /home/vagrant/logs/
 	git add .
-	git commit -m " Log update at $(date +"%F %T") "
+	git commit -m " Log update at $(date +"%a %dth %B %Y  %r %Z ") "
 	git push origin master
 	echo "*****************************************************************"
 	echo "files uploaded to git successfulyy !!"
