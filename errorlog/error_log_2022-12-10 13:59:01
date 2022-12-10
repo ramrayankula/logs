@@ -1,0 +1,3 @@
+[Sat Dec 10 12:16:45.623445 2022] [lbmethod_heartbeat:notice] [pid 2527] AH02282: No slotmem from mod_heartmonitor
+[Sat Dec 10 12:16:45.623747 2022] [mpm_prefork:notice] [pid 2527] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sat Dec 10 12:16:45.623757 2022] [core:notice] [pid 2527] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
